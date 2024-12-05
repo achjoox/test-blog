@@ -40,3 +40,23 @@ body {
     font-weight: 500px;
     margin-left: 35px;
 }
+
+.project {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    padding: 20px 22.5%;
+    margin: 20px 0 40px;
+}
+
+.project-content h1 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.project-content {
+    max-width: 800px;
+    margin: 20px 0 40px;
+}
+
